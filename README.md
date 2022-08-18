@@ -1,4 +1,4 @@
-## Hi there, I,m RAFAEL👋
+## Hi there, I'm RAFAEL👋
 
 > 📚 Student at Fatec-SJRP
 
