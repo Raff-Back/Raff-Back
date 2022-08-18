@@ -2,7 +2,7 @@
 
 > 📚 Student at Fatec-SJRP
 
-### Technologies Backend I'm currently learning. 
+### Technologies Backend I'm currently learning
 
 >**🐍 Python**
 
