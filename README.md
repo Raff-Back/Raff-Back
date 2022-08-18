@@ -1,9 +1,9 @@
-### Hello world🌎!! I,m RAFAEL👋🏾🙋🏾‍♂️
+## Hello world🌎!! I,m RAFAEL👋🏾🙋🏾‍♂️
 
 >**📚Student at Fatec-SJRP
 
->**👨🏿‍💻Technologies I'm currently learning
+###👨🏿‍💻Technologies I'm currently learning
 
-### Backend
+>**Backend
 
 >**🐍Python
