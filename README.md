@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Raff-Back
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hello world🌎!! I,m RAFAEL👋🏾🙋🏾‍♂️
 
-<!---
-Raff-Back/Raff-Back is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+>**📚Student at Fatec-SJRP
+
+>**👨🏿‍💻Technologies I'm currently learning
+
+### Backend
+
+>**🐍Python
